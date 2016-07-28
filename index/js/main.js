@@ -19,7 +19,7 @@ var login = (function () {
             selector: 'login'
         }),
         angular2_1.View({
-            templateUrl: 'view/login.html'
+            templateUrl: 'index/view/login.html'
         }), 
         __metadata('design:paramtypes', [])
     ], login);
